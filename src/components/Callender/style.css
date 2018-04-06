@@ -1,0 +1,16 @@
+.callender_wrapper{
+    position: relative;
+    text-align: left;
+}
+.callender_wrapper .timeslots{
+    display: inline-block;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+    vertical-align: top;
+    
+}
+.callender_wrapper .datewise-events{
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
